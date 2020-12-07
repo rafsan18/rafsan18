@@ -38,4 +38,6 @@ Skills:  REACT/Node/Express/MongoDB / JS / HTML / CSS/
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafsan18&show_icons=true)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rafsan18)  
+
 ![Profile views](https://gpvc.arturio.dev/rafsan18)  
