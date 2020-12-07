@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Rafsan from Bangladesh. I enjoy learning JavaScript and its library React.js. I usually develop website using MERN stack. Last but not least, I really enjoy problem solving.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafsan18)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **rafsan18/rafsan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
