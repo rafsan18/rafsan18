@@ -53,17 +53,14 @@ Last but not least, I really enjoy problem solving.
 ## Rapidfire  
 <table>
   <tr>
-    <td valign="top" width="50%">
+    
 
         - 🌱 I’m currently learning Redux  
   
-
         - ❓ Ask me about anything related to MERN stack and related technologies  
-
-
-    </td>
     
-</tr>
+    
+  </tr>
 </table>  
 
 <br/>  
